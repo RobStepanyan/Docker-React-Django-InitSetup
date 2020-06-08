@@ -1,3 +1,2 @@
-# React Django Setup
- 
-Init setup for React, Django and Docker
+# Docker, React and Django Initial Setup
+
