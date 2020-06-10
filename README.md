@@ -2,6 +2,8 @@
 
 ## How to Run
 ```bash
+git clone https://github.com/RobStepanyan/Docker-React-Django-Setup.git
+cd Docker-React-Django-Setup
 docker-compose up --build
 ```
 
