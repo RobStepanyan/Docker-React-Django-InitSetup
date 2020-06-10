@@ -9,5 +9,6 @@ docker-compose up --build
 Django will run on localhost:8000 as a standalone API <br>
 React will run on localhost:3000 as a standalone SPA
 
-### Also Check the Second Setup
+### Also Check Out the Second Setup
+React builds static js and gives it to django. So it runs inside django as an app.
 [Setup 2](https://github.com/RobStepanyan/Docker-React-Django-Setup-2)
